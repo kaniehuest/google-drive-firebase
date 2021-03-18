@@ -1,5 +1,10 @@
-# Google Drive hecho con Firebase
+# Google Drive made with Firebase!
 
-Crea un ".env.local", rellénalo como el ".env.example" y funcionará
+This "Google Drive" clone was made with:
 
-El video original: [Acá!](https://www.youtube.com/watch?v=6XTRElVAZ9Y)
+- React
+- Bootstrap
+- FontAwesome
+- Firebase
+
+You can see the original video here: [Click me!](https://www.youtube.com/watch?v=6XTRElVAZ9Y)
